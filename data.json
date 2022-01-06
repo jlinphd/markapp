@@ -86,11 +86,11 @@
 		},
 		{
 			"name": "Intercooler",
-			"author": "LeadDyno",
+			"author": "bigskysoftware",
 			"url": "http://intercoolerjs.org/",
 			"image": "https://raw.githubusercontent.com/LeadDyno/intercooler-js/master/www/images/Intercooler_CMYK.png",
 			"description": "AJAX With Attributes: There is no need to be complex",
-			"github": "LeadDyno/intercooler-js"
+			"github": "bigskysoftware/intercooler-js"
 		},
 		{
 			"name": "Isotope",
